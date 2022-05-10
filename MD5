@@ -1,0 +1,16 @@
+65398d6dfdc94cec92a7b1a3bc9d35b6 *DESCRIPTION
+4afcde406e579f8dbbb5f441d845f098 *LICENSE
+0eeb15445ad0b88f7d51770b5bea9abb *NAMESPACE
+9f911c786eb0ee5cfeec05542747b515 *R/independence_weights_estimation.R
+3bfc86a4c4cf3d74ebef20391f7620d3 *R/print_indep_weights_object.R
+8921b708afd300b8a7a8fadfe5c44653 *R/simulate_data.R
+df7f73932034e1ca1e26ed8fa1efa448 *R/utils.R
+7095fc5f1143921f4124da9d399748c5 *README.md
+cbcd4349fdd8b1014790bf7ac6a8ae4c *build/partial.rdb
+f22c9b010a6e7c2871f5dedb77f7038b *man/figures/README-adrf-1.png
+0765458c892593e31aa48e2810bfbdef *man/figures/README-adrf2k-1.png
+b30c136c90b80488bbabfc40d623d11f *man/independence_weights.Rd
+d8b446709a724efc487d1c071f9970a8 *man/print.Rd
+58c3a77534d72cfea53ff4072ba20bc2 *man/simulate_confounded_data.Rd
+9efb0d8b038a40f8d6b08b330ae76c46 *man/weighted_energy_stats.Rd
+26d6d20c8333250b7ee916b8ca5bd403 *man/weighted_kernel_est.Rd
